@@ -1,0 +1,27 @@
+{
+  "name": "claude-wechat-channel",
+  "owner": {
+    "name": "jaxxjj"
+  },
+  "metadata": {
+    "description": "WeChat channel plugin for Claude Code — two-way messaging bridge via iLink Bot API"
+  },
+  "plugins": [
+    {
+      "name": "wechat",
+      "source": {
+        "source": "github",
+        "repo": "jaxxjj/claude-wechat-channel"
+      },
+      "description": "WeChat channel for Claude Code — login with QR code, receive and reply to WeChat messages",
+      "version": "1.0.2",
+      "author": {
+        "name": "jaxxjj"
+      },
+      "homepage": "https://github.com/jaxxjj/claude-wechat-channel",
+      "repository": "https://github.com/jaxxjj/claude-wechat-channel",
+      "license": "MIT",
+      "keywords": ["wechat", "weixin", "channel", "messaging"]
+    }
+  ]
+}
