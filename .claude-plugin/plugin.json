@@ -1,0 +1,12 @@
+{
+  "name": "wechat",
+  "description": "WeChat channel for Claude Code \u2014 two-way messaging bridge via iLink Bot API. Login with QR code, receive and reply to WeChat messages from your Claude Code session.",
+  "version": "1.0.1",
+  "keywords": [
+    "wechat",
+    "weixin",
+    "messaging",
+    "channel",
+    "mcp"
+  ]
+}
